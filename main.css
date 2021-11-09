@@ -16,9 +16,9 @@ body {
 }
 
 .container {
-	background-color: #fff;
+	background-color: #1D4D76;
 	border-radius: 5px;
-	box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+	box-shadow: 0 2px 5px #761D1D;
 	overflow: hidden;
 	width: 400px;
 	max-width: 100%;
